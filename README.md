@@ -103,30 +103,32 @@ Improved skills in DAX and business analysis
 
 ## 📷 Dashboard Preview
 
-(Add screenshots here – very important for recruiters 👇)
+**General View**
+<img width="1510" height="842" alt="image" src="https://github.com/user-attachments/assets/e705793b-4da3-4761-b0e1-1d6881bf99d7" />
+<img width="1278" height="728" alt="image" src="https://github.com/user-attachments/assets/e4654290-7935-4804-b74f-4d90b6a879c5" />
 
-Executive Dashboard
+**Sales Analysis**
+<img width="1278" height="718" alt="image" src="https://github.com/user-attachments/assets/eef8ff4f-4f04-41b3-9704-66a38cf90b77" />
 
-Sales Analysis
-
-Customer Insights
+**Age Group Insights**
+<img width="1280" height="722" alt="image" src="https://github.com/user-attachments/assets/a3e26cec-2ffc-4fc0-97a0-515e47dd3faf" />
 
 ---
 
 ## 🚀 How to Use
 
-Open the Power BI link above
+Open the Live Power BI link [Live Dashoboard Link](https://app.powerbi.com/view?r=eyJrIjoiOWJmMTEzODktZGM1MC00YzcwLThiNTAtNTdlMTkxZTM4OGVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Use filters (city, age group, sales mode)
 
 Interact with visuals for deeper insights
 
-📁 Repository Structure
-📦 Shield-Insurance-Analysis
- ┣ 📊 PowerBI_Dashboard.pbix(./
- ┣ 📁 Dataset
- ┣ 📷 Images
- ┗ 📄 README.md
+## 📊 Project Resources
+
+- 📄 Presentation: [Presentation Link](https://www.linkedin.com/posts/margarat-sheeba-485885b3_powerbi-dataanalytics-datavisualization-activity-7429834656121896960-T84T?utm_source=share&utm_medium=member_desktop&rcm=ACoAABgn_GUBs0wkNzEjXmHx0SMwswU973w-z3E)
+- 📁 Dataset: [Download Data](./dataset/)
+- 📊 [Metrics List] [Metrics](./sample_metrics_list.xlsx)
+- 📈 [Power BI Dashboard (.pbix)] [Dashboard](./Shield_Insurance.pbix)
  
 ---
 
@@ -146,9 +148,9 @@ for guidance and real-world project exposure.
 
 ## 📬 Connect With Me
 
-💼 LinkedIn: (Add your link)
+💼 LinkedIn: www.linkedin.com/in/margarat-sheeba-485885b3
 
-💻 GitHub: (Add your profile link)
+💻  Email: sheebapearll@gmail.com 
 
 ---
 
